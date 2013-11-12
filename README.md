@@ -2,9 +2,12 @@
 
 A collection of colors and gradients taken from Apple's iOS 7 Apps and icons.
 
-##Installation
-Either install from CocoaPods or copy the contents of /KXKiOS7ColorsAndGradients into your project.
+<img src="https://raw.github.com/jgrandelli/KXKiOS7ColorsAndGradients/master/preview.png" width="320"/>
 
+##Installation
+**Code:** Either install from CocoaPods or copy the contents of /KXKiOS7ColorsAndGradients into your project.
+
+**Swatches:** Simply double click on either swatch file.
 
 ##To use an iOS 7 Color
 You would use this just like anyother color except you replace UIColor with KXKiOS7Colors (make sure to import KXKiOS7Colors.h).
